@@ -19,7 +19,7 @@ class Archive
       :oauth_token_secret => config.fetch('oauth secret')
     })
     all_data = @@client.posts("mxb.ca", :limit => 1)
-    @@total_posts = 1#all_data.fetch("total_posts")
+    @@total_posts = all_data.fetch("total_posts")
   end
   
   def archive_posts
@@ -103,22 +103,7 @@ class Archive
     source = @@post_hash.fetch("source")
     body = "#{quote}\n\nsource: #{source}"
   end
-  
-  def post_ids
-    x = 0
-    @@total_posts.times do
-      post_data = client.posts("mxb.ca", :filter => 'raw', :offset => x, :type => 'text', :limit => 1)
-      post_js = post_data.fetch('posts')
-      @@post_hash = post_js[0]
-      id = @@post_hash.fetch('id')
-      post_date = @@post_hash.fetch("date")
-      iso_date = Date.parse(post_date)
-      CSV.open("all-post-ids.csv", mode="a") do |csv|
-        csv << [id, iso_date]
-    end
-    x += 1
-  end
 end
-end
+
 archive = Archive.new
 archive.archive_posts
