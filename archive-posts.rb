@@ -19,7 +19,7 @@ class Archive
       :oauth_token_secret => config.fetch('oauth secret')
     })
     all_data = @@client.posts("mxb.ca", :limit => 1)
-    @@total_posts = all_data.fetch("total_posts")
+    @@total_posts = 1#all_data.fetch("total_posts")
   end
   
   def archive_posts
