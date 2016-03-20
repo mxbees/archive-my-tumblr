@@ -1,0 +1,10 @@
+---
+id: 130652779964
+slug: im-so-glad-ur-talking-about-doctors-not-listening
+type: answer
+date: 2015-10-07 01:15:11 GMT
+tags: []
+---
+question: I'm so glad ur talking about doctors not listening cause I've been struggling with it for years and it feels like I'm all alone and it's so frustrating. I'm tired of doctors thinking they know everything that's best for me and treating me like I'm in a constant break from reality and have no clue what's going on. Sorry a little ranty
+
+answer: <p>no. i really really get it. i mean. i know soooo many ppl whose health is being harmed because doctors are assholes. <br></p><p>and even the ‘good’ ones are assholes. my GP is pretty much the only decent health care professional i regularly interact with. but he was still all “well, i know u haven’t had a full night of sleep in three months, but i think should increase your prozac dosage anyway”</p><p>and they really do act like know-it-alls. i talked to one psych who refused to believe that i might be bipolar bc she apparently didn’t realize that there are to types of bipolar so... yeah.</p><p>i have friends suffering with chronic pain bc their doctors won’t listen to them.</p><p>i really hate it when they act like ur a drug fiend begging them for whatever. my sleep specialist did this when i was like “i’m poor and can’t afford a cpap machine is there anything else i can do for my apnea” and he was like “um... the side effects for stimulates can be bad and they are habit forming” and i was like “i, uh, kind of meant like, idk, sleep positions or whatever?” <br></p><p>but even so... my daytime sleepiness causes a lot of problems. i fall asleep at work _during meetings_ for fuck sake. i’ll be doomed if i lose my current job bc i’m pretty much unemployable at this point.</p><p>lol. i’m ranty too. its all so frustrating bc pretty much everyone i know wants to be doing better and have a better quality of life... only for fucking _doctors_ to be one of our main barriers.<br></p>

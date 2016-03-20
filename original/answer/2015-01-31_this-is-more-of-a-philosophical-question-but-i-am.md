@@ -1,0 +1,13 @@
+---
+id: 109670560164
+slug: this-is-more-of-a-philosophical-question-but-i-am
+type: answer
+date: 2015-01-31 13:56:08 GMT
+tags:
+- decolonization nao
+- neeta-inari
+- asks
+---
+question: this is more of a philosophical question but i am wondering what would "respecting the art" mean in this specific instance? it is a very vague and open-ended expression and does not directly address the specific cultural context or imply any real commitment or obligation or other form of reciprocity between "the art" and the person who wears it.
+
+answer: <p>hmm...</p><p>i'm guessing you're talking about the Kalinga post?</p><p>i had to double check to see if i had used that phrase, but i'm guessing you're just asking in a general sense. which is cool.</p><p>for me... i don't think there is any way to 'respect the art' without respecting the artists, you know? like. all art is created by people (either individually or collectively).</p><p>so like. for me. the way this comes out in my post is the assertion that if you want a Kalinga tattoo, you should probably only get it from a Kalinga person (or a person they've specifically trained and trusted to continue the tradition).&nbsp;</p><p>like. for me. to talk about 'the art' as if it could be meaningfully separated from the person/community that creates it seems to fit into what marxists call 'commodity fetishism' where we make the 'object' the real/important thing as a way to dislocate it from the people and labour that produces it.&nbsp;</p><p>another way, i think this plays out in my post is when i mention how Apo Whang-ud has said that she is happy to see the tattooing being revived in the PH. I mean... if not for this revival, it is quite possible that the vast knowledge and skills that she is pretty much the sole possessor of would simply vanish when she dies. and. i can see her really wanting to see this thing that she's devoted her entire life to continue to live on.&nbsp;</p><p>and so, like, if she's _the elder_ and this is how she feels about it? i respect that. so respecting the art here is knowing that, yeah, our big elder does think it is fine for ppl who aren't Kalinga to get (some) of the Kalinga motifs and designs.&nbsp;</p><p>(but i still feel strongly about supporting _them_ directly as much as possible bc i personally don't feel good about just removing the context and not involving the ppl esp. as a person from a privileged/dominant ethnicity in the diaspora.)</p><p>idk. does this even get close to answering the intent of your question?&nbsp;</p><p>(possible i'm too tired bc of insomnia to be reading it right)</p>

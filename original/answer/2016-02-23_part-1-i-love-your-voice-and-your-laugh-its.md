@@ -1,0 +1,10 @@
+---
+id: 139873531399
+slug: part-1-i-love-your-voice-and-your-laugh-its
+type: answer
+date: 2016-02-23 22:48:20 GMT
+tags: []
+---
+question: Part 1) I love your voice, and your laugh; it's really soothing for some reason. The mainstream discourse around disability narrows the concept of disability to a small set of mostly visible disabilities. I have severe, debilitating OCD (I can't buy clothes, I throw stuff I can't afford to throw, I can't go where I want to go instantly) and I get told constantly I am not disabled
+
+answer: <blockquote><p>Part 2) And even within the realm of physical chronic conditions, people will overlook or minimize the very real and debilitating impact of conditions like IBS, allergies (that one actually fascinates me), diabetes, ect...Disability, for able bodied neurotypical people, becomes something they can make inspiration porn of. Anything too mundane, anything that cannot be made into a "against all odds" narrative is null and void.</p></blockquote><p>Ok. First of all, I have to say that ur like one of my favourite people who sends me asks. They’re always so interesting and thoughtful. So thanks.</p><p>*nods* and i def. hear u about the disability. the way some ppl talk about it, i forget that u don’t have to be bedridden to be disabled.&nbsp;</p><p>its funny u mention both IBS and allergies bc that’s me. i wrote a whole essay trying to explore how/when allergies can be disabling. i don’t think they are in all cases but for someone like me? they really really are.&nbsp;</p><p>and yeah... the whole inspiration porn thing. i think that chronic illness specifically has no space in there. bc... well. its chronic. u don’t get&nbsp;‘better’. there isn’t a magical cure. like even with&nbsp;‘just’ ibs. there isn’t any cure. there barely is any treatment. we can’t cure allergies. etc.&nbsp;</p><p>(sidenote: not a criticism of u, but just of the idea in general about being able to coherently split&nbsp;‘visible’ disability from&nbsp;‘invisible’ is pretty much bullshit. but yeah.)</p>

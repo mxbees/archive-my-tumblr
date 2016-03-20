@@ -1,0 +1,13 @@
+---
+id: 124959834679
+slug: cis-and-trans-arent-just-about-identity
+type: answer
+date: 2015-07-25 00:25:52 GMT
+tags:
+- teh trans community
+---
+question: " ‘cis’ and ‘trans’ aren’t just about identity (or, arguable, never even about identity)." can you talk about this some more? what are cis/trans if not identity? can a person be trans even if they don't identify as such?
+
+answer: <p><a class="tumblr_blog" href="http://mxb.ca/post/124959626134/cis-and-trans-arent-just-about-identity">mxbees</a>:</p>
+
+<blockquote><p>well&hellip;</p><p>it depends on how you want to look at it. obviously, some people understand them as identity terms and this is what they are about on one level.</p><p>on a different level, ‘trans’ denotes an oppressed class and ‘cis’ denotes an oppressor class. </p><p>viewed from above (which is kind of a categorical power analysis) people can  be and are cis and trans without identifying as such.</p><p>indeed, to answer you last question, ‘transgender’ as conceived as a political umbrella term denoted and included people who rarely (if ever) actually identify as trans: straight male crossdressers, butch lesbians, femme gays, drag queens, etc. </p><p>these ppl were specifically and purposefully included under the trans umbrella because the ppl who pushed for the umbrella did feel that their ‘gender non-conformity’ was indeed an aspect for how they experience oppression. </p><p>twenty some years later, the definition for ‘trans’ (and thus, ‘cis’) has obviously narrowed. however, even today, there are people pushed under the trans umbrella who might not want to be there. or may not necessarily belong. </p><p>but this shift in how many people use it, from political umbrella term to identity politics, is a great example for how the potential within naming an oppressed class (especially a name chosen by the people who belong to that class) becomes transformed within white liberal politics to become about individual feelings. </p><p>same thing happened with ‘queer’, which was originally meant and intended to be used to signal _political_ affiliation and intention, rather than individual and personal identity. instead, nowadays we have people straightfaced arguing that ‘queer’ isn’t a slur and that being ~queer~ isn’t about some experience of oppression. </p></blockquote><p><p>but yeah. <br/><br/>the really short answer to this is<br/><br/>"if i have to be trans, then you have to be cis"<br/><br/>end of story.</p></p>

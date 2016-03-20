@@ -1,0 +1,13 @@
+---
+id: 126086228909
+slug: re-your-tweets-about-white-environmentalism-and
+type: answer
+date: 2015-08-07 10:22:50 GMT
+tags:
+- able ability
+- mayo is as mayo does
+- Anonymous
+---
+question: Re: your tweets about white environmentalism (and I want to say first that I'm white so I am complicit in this, and can't know exactly where you're coming from, BUT) I do sort of know what you mean because I'm disabled and I feel like 99% of environmental tips involve restricting or living without access to technology that accommodates us, or else expecting us to radically shift our diets and the medication we need. I've gotten cynical about mainstream/white Environmentalism as a movement tbh.
+
+answer: <p>oh this is super true too. especially if they are of the anarchist and/or libertarian bent. actually a lot of communists too.</p><p>like... there is a whole group of environmentalists who are basically like ‘lets get back to the ~old~ ways’, essentially believing that de-industrializing is the way to save the planet. <br></p><p>which... yes... to some extent this is a solution, since (for example) the use of fossil fuels is the source of a lot of current problems.</p><p>except that these ppl don’t seem to really get that we need technology, at this point, if we are going to sustain our current population. which basically means that their solutions relies on a lot of us dying.</p><p>(and so many ppl push the 'overpopulation' thing. and the overpopulation thing not only implicates third world poc, but yeah, disabled ppl bc we are 'surplus' and don't really contribute back -- at least in ways they find meaningful, which means that others need to work extra hard to ensure we stay alive. or something)</p><p>but i get super suspicious of anarchists who seem to have zero plans or ideas about how they'll, for example, keep the pharmacutical industry up and running. yes, the industry has a lot of problems tied into capitalism. but they still produce a lot of medicine that saves ppl's lives.</p><p>same thing with white environmentalists who really believe that individual consumer choice actually makes a difference. like. apple products have become increasingly less environmental friendly as they get smaller and smaller. so maybe not getting an iPhone is a good idea. except that, from what i've read, apple does accessible software MUCH better than android. so... </p><p>anyway. i agree. too much of white environmentalism is predicated on a lot of vulnerable ppl dying. so that _they_ can live and inherit the earth. and it all just feels like the same genocide that white ppl have been pushing since forever.</p>

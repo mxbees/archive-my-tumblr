@@ -11,42 +11,47 @@ require 'csv'
 
 class Archive
   def api_call
-    x = 0
     config = YAML.load_file('.config.yml')
-    client = Tumblr::Client.new({
+    @@client = Tumblr::Client.new({
       :consumer_key => config.fetch('consumer key'),
       :consumer_secret => config.fetch('consumer secret'),
       :oauth_token => config.fetch('oauth token'),
       :oauth_token_secret => config.fetch('oauth secret')
     })
-    all_data = client.posts("mxb.ca", :limit => 1)
-    @@total_posts = 1#all_data.fetch("total_posts")
-    post_data = client.posts("mxb.ca", :filter => 'raw', :offset => x, :reblog_info => true, :limit => 1)
-    post_js = post_data.fetch('posts')
-    @@post_hash = post_js[0]
+    all_data = @@client.posts("mxb.ca", :limit => 1)
+    @@total_posts = all_data.fetch("total_posts")
   end
   
-  def loop
+  def archive_posts
+  x = 0
+    archive = Archive.new
+    archive.api_call
     @@total_posts.times do
-    
+      post_data = @@client.posts("mxb.ca", :filter => 'raw', :offset => x, :reblog_info => true, :limit => 1)
+      post_js = post_data.fetch('posts')
+      @@post_hash = post_js[0]
+      archive.sort_posts
+    x += 1
     end
   end
   
-  def sort_reblogs
+  def sort_posts
+    archive = Archive.new
     test  = @@post_hash.has_key?('reblogged_from_id')
     type = @@post_hash.fetch('type')
+    metadata = @@post_hash.select{|k,v| k == "id" || k == "slug" || k == "date" || k == "tags" || k == "title" || k == "type"}
     if test == false
-      op = original
-      metadata = archive.'#{type}'
-      archive.make_record(op, type, metadata)
+      op = 'original'
+      body = archive.send(type.to_sym)
+      archive.make_record(op, type, metadata, body)
     else
-      op = reblog
-      metadata = archive.'#{type}'
-      archive.make_record(op, type, metadata)
+      op = 'reblog'
+      body = archive.send(type.to_sym)
+      archive.make_record(op, type, metadata, body)
     end
   end
   
-  def make_record(op, type, metadata)
+  def make_record(op, type, metadata, body)
     post_date = @@post_hash.fetch("date")
     iso_date = Date.parse(post_date)
     title = @@post_hash.fetch("slug")
@@ -57,29 +62,46 @@ class Archive
   end
   
   def text
-    metadata = @@post_hash.select{|k,v| k == "id" || k == "slug" || k == "date" || k == "tags" || k == "title" || k == "type"}
     body = @@post_hash.fetch("body")
   end
   
   def link
-    metadata = @@post_hash.select{|k,v| k == "id" || k == "slug" || k == "date" || k == "tags" || k == "title" || k == "url" || k == "type"}
-    body = @@post_hash.fetch("description")
-    end
+    url = @@post_hash.fetch('url')
+    description = @@post_hash.fetch("description")
+    body = "link url: #{url}\n\n#{description}"
   end
   
   def photo
-    metadata = @@post_hash.select{|k,v| k == "id" || k == "slug" || k == "date" || k == "tags" || k == "title" || k == "type"}
-    body = @@post_hash.fetch("caption")
     photos = @@post_hash.fetch("photos")
     photo_hash = photos[0]
     original = photo_hash.fetch("original_size")
 		original_url = original.fetch("url")
+		caption = @@post_hash.fetch("caption")
+		body = "original url: #{original_url}\n\n#{caption}"
   end
   
   def answer
-    metadata = @@post_hash.select{|k,v| k == "id" || k == "slug" || k == "date" || k == "tags" || k == "title" || k == "type"}
     question = @@post_hash.fetch("question")
     answer = @@post_hash.fetch("answer")
+    body = "question: #{question}\n\nanswer: #{answer}"
+  end
+  
+  def video
+    body = @@post_hash.fetch("caption")
+  end
+  
+  def audio
+    body = @@post_hash.fetch("caption")
+  end
+  
+  def chat
+    body = @@post_hash.fetch("body")
+  end
+  
+  def quote
+    quote = @@post_hash.fetch("text")
+    source = @@post_hash.fetch("source")
+    body = "#{quote}\n\nsource: #{source}"
   end
   
   def post_ids
@@ -93,16 +115,10 @@ class Archive
       iso_date = Date.parse(post_date)
       CSV.open("all-post-ids.csv", mode="a") do |csv|
         csv << [id, iso_date]
-      end
-    x += 1
     end
+    x += 1
   end
 end
-
+end
 archive = Archive.new
-#archive.auth
-
-archive.text
-archive.link
-archive.answer
-archie.photo
+archive.archive_posts

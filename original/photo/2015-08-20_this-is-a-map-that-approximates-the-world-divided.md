@@ -1,0 +1,11 @@
+---
+id: 127153926229
+slug: this-is-a-map-that-approximates-the-world-divided
+type: photo
+date: 2015-08-20 12:50:50 GMT
+tags:
+- race to the bottom
+---
+original url: https://36.media.tumblr.com/fce348917d37fbca806c9a349bc1e9aa/tumblr_ntdt0qHgTg1tyjgxro1_1280.png
+
+<p>This is a map that approximates the world divided into the <a href="http://debbiejlee.com/ageofwonder/blumen.pdf">racial classifications of Johann Blumenbach</a>. <a href="https://en.wikipedia.org/wiki/Johann_Friedrich_Blumenbach">Blumenbach is the crusty white german d00d </a>responsible for making&nbsp;‘caucasion’ interchangeable with&nbsp;‘white’ (he didn’t coin the term, but he did popularize it).</p><p>(note: australia isn’t covered in because it isn’t clear to me, based on Blumenbach’s words, where it fits in.)</p><p>You’ll note that there are five races: Black, brown, red, yellow, and white.&nbsp;</p><p>You’ll also notice just how much larger his conception of&nbsp;‘white’ is than it is today (since basically no one really considers South Asians to be white).&nbsp;</p><p>In broad geographical terms, this is how it breaks down in today’s terms:</p><p><b>Black</b>: All of Africa except for the North.</p><p><b>Brown</b>: The Malaysian peninsula and basically all the Pacific Islands (inclusive of the Philippines, Indonesia, all of Polynesia, New Zealand, Hawaii, etc).</p><p><b>Red</b>: The Americas except for the Inuit in the North.</p><p><b>Yellow</b>: The Inuit of the Americas and Greenland, the Saami, East Asia and that Eastern part of Russia.</p><p><b>White</b>: Europe except for the northern areas where the Saami are (I know i didn’t cover their entire traditional territory but bc I have terrible fine motor control, filling in current national borders with colours made for a more legible map). North Africa. The Middle East. South Asia. Central Asia.</p><p>Before you drop into my ask, remember that I’m simply communicating (in a visual way) they entirely racist theories of Johann Blumenbach. I am _not_ asserting the truth of this theory.&nbsp;</p>

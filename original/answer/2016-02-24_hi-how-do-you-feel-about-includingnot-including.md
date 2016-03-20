@@ -1,0 +1,10 @@
+---
+id: 139877867729
+slug: hi-how-do-you-feel-about-includingnot-including
+type: answer
+date: 2016-02-24 00:13:53 GMT
+tags: []
+---
+question: Hi!  How do you feel about including/not including  hetace/hetaro people in the lgbt community? I'm an aro lesbian and tend lean towards the latter. I'm sorry if you've answered something like this before or not but I'm stuck on mobile at the moment!
+
+answer: <p>man. i totally have answered this before. indeed. i have many many posts inspired by this single issue alone.</p><p>the most recent one was about how <a href="http://syx.pw/1UlnpJ2">queer is a slur</a>.</p><p>my feelings about this are pretty well known.&nbsp;</p><p>i was starting to write something longer but i’m remembering after the last time i got into this that i swore i’d never be dragged back into this.</p><p>the only responses i’m willing to provide at this point are:</p><ul><li>there is no&nbsp;‘lgbt’ community<br></li><li>many of the ppl who mistakenly think there is one are generally pretty happy to climb over the bodies of twoc to gain admittance. this includes aces of all kinds.</li><li>this discussion is boring to me at this point bc it doesn’t do anything to help twoc. at all.&nbsp;</li><li>as far as i’m concerned, everyone is welcome into the castle of shit the white cis gays call&nbsp;‘the lgbt community’</li><li>i mean. what do i care as one of the ppl being stepped on so that some ppl can get into this castle made of shit.</li><li>everyone who wants to be in Shit Castle deserves each other.</li><li>in the meantime, i have more important things to worry about.</li></ul><p>(note: i want to say that the tone of my response isn’t directed towards u but towards the ~lgbt~ community at large. i’m frustrated bc even engaging in this conversation legitimises the fiction that the castles made of shit built by the white cis gays aren’t built on the backs of twoc. in general. i really wish all the ppl who continuously worry about whether or not they ~belong~ would simply focus that energy into dismantling the very structures they whine about.)</p>

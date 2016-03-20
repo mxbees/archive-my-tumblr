@@ -1,0 +1,13 @@
+---
+id: 115077982019
+slug: ok-ok-im-very-sorry-if-this-comes-off-wrong-but-i
+type: answer
+date: 2015-03-31 01:03:58 GMT
+tags:
+- teh trans community
+- fuck white trans women
+- Anonymous
+---
+question: Ok ok I'm VERY sorry if this comes off wrong but I have a question and I hope it's alright to ask.  I've seen a LOT of white trans women who say that cafab ppl have privilege over them and one of the ways they prove it is by saying that trans women are more likely to be murdered than cafab ppl are.  I'm a AFAB TPoC (Afro-Latinx) and this always just bothers me immensely because honestly?  All the trans women I see as murder victims are NOT white.  Is it wrong for me to find this racist?
+
+answer: <p>&gt;I'm only asking really because I don't want to be transmisogynistic by saying that these white trans women were racist but it honestly just felt like they were using the deaths of people who are of the same race as me to silence me and other cafab tpoc. That is, they would silence me and others by saying we have cafab privilege and thus can't speak at all about transmisogynistic vilence, even though said violence is heavily racialised.</p><p>like. yeah. fuck these white trans women. like. totally and utterly 10000% racist of them to coopt the narratives of twoc and act as if there are in as much danger as we are of actually experiencing violence[^1]</p><p>like. sure. people who don’t experience transmisogyny are totally and utterly privileged by this and whatever</p><p>but race is always relevant</p><p>and a white trans woman is FAR less likely to experience many kinds of violent death than ANY given Black person (like there is a reason it is always white trans women inviting the fucking police to trans marches).&nbsp;</p><p>like. as audre lorde is always quoted: we don’t live single issue lives.</p><p>white trans women LOVE to ignore the importance of race and how this impacts your chances of experiencing violence bc it allows them to coopt narratives of Black and/or Latina trans women in order to maintain control over MANY trans spaces</p><p>so yeah. not transmisogynist to call racist white ppl racist. or to point out to white trans women when they are coopting narratives and experiences that aren’t theirs.</p><p>[^1]: as i always need to note: i live in canada and 2 out of 3 murders in the past 5 years were of SE Asian trans women which is why i usually say&nbsp;‘twoc’ -- not as a way to diminish the very real and needed focus on Black and/or Latina trans wonen in the US and globally as they are the primary targets of transmisogynist violence</p>

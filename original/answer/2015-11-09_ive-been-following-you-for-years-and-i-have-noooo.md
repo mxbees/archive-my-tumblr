@@ -1,0 +1,11 @@
+---
+id: 132890388219
+slug: ive-been-following-you-for-years-and-i-have-noooo
+type: answer
+date: 2015-11-09 21:00:34 GMT
+tags:
+- Anonymous
+---
+question: i've been following you for YEARS and i have noooo idea where this "lesbophobia" stuff is coming from... i can't even remember an incident where you were accused of it in the past. what's going on. are these anons coming from the berenstein universe??
+
+answer: <p>they are honestly just doing what i actually call the&nbsp;‘callout derail’ whereby the person uses an unrelated (but true) callout as a way to derail the conversation.</p><p>like. yeah. i’m not a lesbian. as such, by default i’m lesbophobic bc this is how oppression works. this is why i’m not bothering to defend myself. the state is by default. whether or not i’ve done a good job of proving that i’m working to unlearn and work against lesbophobia? an entirely different conversation. and probably one where i don’t end up looking very good. i mean. by and large i do ignore (and this is purposeful) 99.9% of discussions about lesbianism or lesbians. i certainly don’t go out of my way to help them either. none of which shows that i’ve been working hard (or at all) to move away from my default position.</p><p>the thing about this, is that it isn’t relevant. they could just as easily accuse me of being anti-Black, fat phobic, a settler, anti-semetic, or any number of other things i’m guilty of. and yet... none of this has any bearing one my critique or anything else i’ve done in the past day or so.</p><p>above all, i guess i’m happy to have my suspicions confirmed? and i feel validated in walking away from teh ~community~.</p><p>also. i mean. i don’t think they actually understand the extent of which i absolutely do not care. about what they call me. about what they say about me. about anything they discuss amongst themselves.&nbsp;</p><p>i think, even just a year ago i’d have cared. bc back then my reputation actually mattered to me. my reputation is already garbage. my life is garbage. my friends know who i am. that’s literally all i care about at this point.&nbsp;</p>

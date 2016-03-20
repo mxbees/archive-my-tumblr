@@ -1,0 +1,10 @@
+---
+id: 137617645964
+slug: do-you-think-femme-is-a-coherent-class-i-see-it
+type: answer
+date: 2016-01-19 13:01:46 GMT
+tags: []
+---
+question: do you think femme is a coherent class? i see it being used to encompass everyone from flamboyant trans dudes to nb cafab ppl, to cis women, to transfem ppl who pass, to anyone amab who wears makeup/is very effeminate, and in this usage, it is also more freely associated imo, with white ppl.
+
+answer: <p>er.&nbsp;</p><p>my initial response to this is&nbsp;‘why does it even need to be a coherent class?’</p><p>in the case of my most recent usage, i was definitely talking about a specific person and how they identify. i don’t think i often (or perhaps ever) have used&nbsp;‘femme’ as a way to demarcate a class of (oppressed) people.&nbsp;</p><p>i think there is something to be said in relation to&nbsp;‘femme’ and the subset of misogyny that is totally about punishing expressions of femininity (or just femininity/femme-ness in general).&nbsp;</p><p>re: the asab stuff. i don’t (and have never) conceived of gender or expression as divided along those lines. i don’t think its especially relevant to a discussion on femme-ness (or its relevance is significantly different from how it appears in your question).</p><p>as far as the white thing goes, tbh, i pretty much pretend that white ppl who claim to be femme don’t exist. like. they don’t factor *at all* into how i think about things. most especially in terms of being femme and embodiments of it. like. i know that white ppl use it. i especially know that cis white lesbians LOVE to police it and claim it is theirs and theirs alone. but i don’t spend anytime worrying or thinking about this. i truly do not care.</p><p>femme-ness, for me, is inextricably tied to colour and race.&nbsp;</p><p>(random thoughts suddenly bubbling up: what if we look at&nbsp;‘femme’ as an incoherent class? what if we start admitting valid incoherent classes into our ontologies? do such things exist? if so, what are the implications of this? whats the dif. between valid and invalid incoherent classes? is there any difference?)</p>

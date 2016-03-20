@@ -1,0 +1,12 @@
+---
+id: 127829100554
+slug: remember-how-erica-made-this-post-about-how-mras
+type: text
+date: 2015-08-29 01:37:14 GMT
+tags:
+- teh trans community
+- transmisogyny is fun for the whole family
+title: ''
+---
+
+<p>Remember how Erica made this post about how MRAs are a big and growing problem for trans women? How I agreed and we both got a bunch of ppl upset and angry with us?</p><p>What with the <a href="http://b-binaohan.tumblr.com/post/125759366244/the-advocate-and-the-mainstreaming-of-trans-mras">mainstreaming of transbr0 MRAs</a> at the Advocate and stuff I'm seeing come out from transbr0s on twitter and tumblr, the ranks of MRAs continues to grow and it continues to be a big problem.</p><p>A growing problem as this particular strain of men's rights activism, something that has been fermenting and brewing for a few years now, is becoming a more and more commonly held ideology for trans men. </p><p>On the surface, there isn't anyting 'new.' I mean. All of the main transbr0s MRA talking points are things ppl will be familiar with:</p><p>- emphasis on female socialization<br>- a disavowal of having male privilege<br>- feeling 'erased' or 'excluded' when they're told about their male privilege<br>- truscum shit</p><p>Almost boring its become so common. But... when it is tied to their belief that it is the hypervisibility of twoc in the media that is causing their erasure? Their belief that ppl in teh community paying lip service to twoc as a way to mark how ~radical~ they are is erasing them? The fact that they continue to double down on the idea that they are entitled to women's spaces more than actual women?</p><p>Still... nothing that special or new.</p><p>Except: this is spreading. This isn't just a few transbr0 malcontents. This isn't just buck angel anymore. </p><p>Instead, its considered a real reason to have series of posts on the Advocate focusing ONLY on men. Has such a thing ever beendone at the Advocate for trans women? Real enough that trans men _new_ to the community are already spouting the party line. </p><p>Yes. Radfems are a problem. Have been for a while. But men have been and are the biggest threat to women. Always. It shouldn't be controversial to point this out.</p>

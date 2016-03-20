@@ -1,0 +1,14 @@
+---
+id: 112710912989
+slug: your-post-on-identity-not-being-resistance-is
+type: answer
+date: 2015-03-04 18:49:52 GMT
+tags:
+- discussing discourse
+- decolonization nao
+- antiBlackness is real
+- Anonymous
+---
+question: Your post on identity not being resistance is interesting and makes sense to me. But how do you reconcile that with the idea that all PoC identities are authentic and resist white supremacys attempt to delegitimize our cultures and genders? Maybe that's a diff kind of resistance than you meant? Or is it by virtue of using "PoC" to describe the aforementioned non white ppl that also implies some kind of action and not just identity?
+
+answer: <p>i think that authenticity is sort of a distinct problem from this notion of identity as resistance.</p><p>and note the framework i use... it isn't that i don't think that the assertion of identity (this is an action) can never be resistance, but rather that identity isn't inherent radical (i don't believe that all resistence is radical or something).&nbsp;</p><p>but i do think that the assertion of identity can be an act of (momentary) resistance. but that's the thing: you almost &nbsp;have to continuously and stubbornly assert your existence and humanity (i'll get back to this point) in order for identity to be resistance in and of itself.&nbsp;</p><p>but also like, look at how i framed the example. my dad is Asian. yes. but he is also a super proud filipino. like enough to be a nationalist. the fact that he immigrated to canada but never gave into the pressures of assimilation that face all immigrants is part of what makes his assertion of being 'filipino' an act of resistance.</p><p>likewise, one of the reasons why i think that so much critically important thought comes from Black communities is the nature of anti-Blackness asserting that Black humanity is ontologically precluded.&nbsp;</p><p>likewise, Indigenous thought tends to be powerful bc of the white supremacist insistence that indigeneity and Indigenous ppl must necessarily disappear (must always be disappearing) for the sake of the settler state. thus. asserting an Indigenous identity in the _present_ when you are supposed to be, at best, a relic of the past is and can be resistance.&nbsp;</p><p>to get back to the notion of humanity, i think this is what marks the difference between identity as resistance vs. just something we are. the assertion of _humanity_ from ppl with identities that are defined as sub/in/non-human makes it an act of resistance but the resistance isn't just in the fact of existence itself.&nbsp;</p><p>its complicated but i don't think the two contradict each other at all and i just woke up from a nap so i'm not sure how much sense i'm making rn.&nbsp;</p>
