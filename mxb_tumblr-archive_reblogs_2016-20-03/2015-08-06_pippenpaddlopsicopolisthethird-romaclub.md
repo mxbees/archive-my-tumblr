@@ -1,0 +1,18 @@
+---
+id: 126043346299
+slug: pippenpaddlopsicopolisthethird-romaclub
+date: 2015-08-06 22:10:34 GMT
+tags:
+- discussing discourse
+title: ''
+---
+<p><a class="tumblr_blog" href="http://pippenpaddlopsicopolisthethird.tumblr.com/post/125687316849">pippenpaddlopsicopolisthethird</a>:</p>
+<blockquote>
+<p><a class="tumblr_blog" href="http://romaclub.tumblr.com/post/115379287072">romaclub</a>:</p>
+<blockquote>
+<p><b>Please, stop eating fish.</b> The world&rsquo;s stocks of seafood will have collapsed by 2048 at present rates of destruction by fishing. <b><a href="http://www.telegraph.co.uk/news/uknews/1533125/All-seafood-will-run-out-in-2050-say-scientists.html">This means the ocean will be empty by 2048 if people don&rsquo;t stop eating fish.</a></b> The fishing industry is the biggest killer of animals in the world, more than 1 trillion fish die each year. Please ask yourself if your fish consumption is worth the total extinction of all marine life. Please stop eating fish and alert everyone you know what will happen if we don&rsquo;t.</p>
+</blockquote>
+<p>If you can&rsquo;t cut fish out of your diet, there are also options for sustainable fish! Farmed fish like catfish and tilapia are very sustainable (especially catfish, because they eat an entirely vegetarian diet). They actually help oceans, because by choosing sustainable fish, you leave the at-risk fish in the water. The absolute worst fish to buy or eat are large predatory fish like tuna, swordfish, shark, and the like. </p><p>If you want to know which fish are best for the environment to eat, check out <b><a href="http://www.seafoodwatch.org/">seafoodwatch.org</a></b>. They have a searchable database where you can check out which fishes are best and worst! And <b><a href="http://www.seafoodwatch.org/seafood-recommendations/consumer-guides">This Page</a></b> on their website has sustainability guides for every state in the United States, so wherever you are in the country you can know how to help the ocean. </p>
+</blockquote>
+
+<p>yesss.</p><p>its going to be me complaining about bullshit environmental posts.</p><p>you know _why_ the world's fish stocks are disappearing, bc of the unsustainable industrial fishing practices of white/western nations. in addition to the increased demand for fish in those same areas. </p><p>you know, where fish wasn't really part of the diet until recently? </p><p>(i'm talking about white settler diets. which hadn't really included a great deal of fish until recently)</p><p>indigenous ppl the globe over have been sustainably eating fish for thousands of years.</p><p>and white ppl have managed to destroy the stocks. they are responsible for the utter destruction of the cod stocks in canada.</p><p>the fish were _fine_ until white ppl got involved. </p><p>so the real deal here is: white ppl need to _stop_ eating fish. and stop fishing. </p><p>(and i'm writing this as a person who fucking loves fish and fish/seafood _is_ a part of my traditional diet but has stopped eating fish for this exact reason)</p><p>remember: we do not all have equal responsibility and culpability in this.</p><p>shit like this. 'if you can't cut fish out of your diet' as if this is really an option for a lot of indigenous ppls (and global ppls who've sustainably eaten fish forever). </p><p>again the message? </p><p>lol. white ppl ruined everything, but now all u fucking indigenous and poor poc need to stop eating your traditional diets bc the planet is going to die. oh? you have no other options? </p><p>STARVE. JUST DIE. YOU'RE OVER POPULATING THE WORLD ANYWAY.</p>

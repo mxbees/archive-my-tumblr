@@ -1,0 +1,105 @@
+{"blog_name"=>"mxbees",
+ "id"=>141262473804,
+ "post_url"=>
+  "http://mxb.ca/post/141262473804/image-is-the-inside-of-a-desktop-computer-here",
+ "slug"=>"image-is-the-inside-of-a-desktop-computer-here",
+ "type"=>"photo",
+ "date"=>"2016-03-18 17:18:51 GMT",
+ "timestamp"=>1458321531,
+ "state"=>"published",
+ "format"=>"markdown",
+ "reblog_key"=>"wimdaO7F",
+ "tags"=>["the life of an ordinary bakla", "op", "happy birthday to me"],
+ "short_url"=>"https://tmblr.co/ZEoJpn23ZvafC",
+ "summary"=>
+  "[image is the inside of a desktop computer]\n\nhere is my birthday build!\n\nfor my birthday this year, i put a bunch of computer...",
+ "recommended_source"=>nil,
+ "recommended_color"=>nil,
+ "followed"=>true,
+ "highlighted"=>[],
+ "liked"=>false,
+ "note_count"=>17,
+ "caption"=>
+  "[image is the inside of a desktop computer]\n\nhere is my birthday build!\n\nfor my birthday this year, i put a bunch of computer components on my amazon wishlist in the hopes that people would help me get a new computer. and they did! \n\ni actually paid for a decent portion of this myself, since i bought the two most expensive components (the CPU and motherboard). but it allowed me to get a really nice computer within my budget. i was going to end up with something pretty underpowered (for my needs). \n\ni wanted to buy my components with the notion that i'd be holding onto this desktop for a while. i really want to get out of the planned obsolescence cycle that most electronic manufacturers have going. and now that i know how to put a computer together, i'll be able to upgrade pieces as a i need to. or just replace broken parts. i'm hoping this'll be with me for the next, idk, at least 10 years.\n\nsince i'm not a student, i don't need a laptop anymore. and tbh, there are very few, imo, that actually live up to their promise in terms of portability, power, and price (at the end of the day, 90% of the things are too fucking heavy to want to carry around a lot).\n\nlast... even if i do need to go portable, bc 80% (or more) of the apps i most frequently use are all text/commandline based, its actually just easier for me to spin up a temporary server in the cloud and connect to it with my phone or tablet. \n\nanyway. here are the specs:\n\n- intel core i5 3.1 ghz\n- asrock h97 motherboard\n- crucial 8gb ram\n- msi geforce gt 430 video card\n- corsair 200r atx mid tower case\n- fractal design integra m 450w psu\n- d-link dwa-566 wifi adapter.\n\ni think the part i'm proudest of is actually the wifi adapter. the whole wifi thing and linux gets a bit complicated but this one worked without any additional effort on my part. which is fucking *awesome*. \n",
+ "reblog"=>
+  {"tree_html"=>"",
+   "comment"=>
+    "<p>[image is the inside of a desktop computer]\n\nhere is my birthday build!\n\nfor my birthday this year, i put a bunch of computer components on my amazon wishlist in the hopes that people would help me get a new computer. and they did! \n\ni actually paid for a decent portion of this myself, since i bought the two most expensive components (the CPU and motherboard). but it allowed me to get a really nice computer within my budget. i was going to end up with something pretty underpowered (for my needs). \n\ni wanted to buy my components with the notion that i'd be holding onto this desktop for a while. i really want to get out of the planned obsolescence cycle that most electronic manufacturers have going. and now that i know how to put a computer together, i'll be able to upgrade pieces as a i need to. or just replace broken parts. i'm hoping this'll be with me for the next, idk, at least 10 years.\n\nsince i'm not a student, i don't need a laptop anymore. and tbh, there are very few, imo, that actually live up to their promise in terms of portability, power, and price (at the end of the day, 90% of the things are too fucking heavy to want to carry around a lot).\n\nlast... even if i do need to go portable, bc 80% (or more) of the apps i most frequently use are all text/commandline based, its actually just easier for me to spin up a temporary server in the cloud and connect to it with my phone or tablet. \n\nanyway. here are the specs:\n\n- intel core i5 3.1 ghz\n- asrock h97 motherboard\n- crucial 8gb ram\n- msi geforce gt 430 video card\n- corsair 200r atx mid tower case\n- fractal design integra m 450w psu\n- d-link dwa-566 wifi adapter.\n\ni think the part i'm proudest of is actually the wifi adapter. the whole wifi thing and linux gets a bit complicated but this one worked without any additional effort on my part. which is fucking *awesome*.</p>"},
+ "trail"=>
+  [{"blog"=>
+     {"name"=>"mxbees",
+      "active"=>true,
+      "theme"=>
+       {"header_full_width"=>1425,
+        "header_full_height"=>625,
+        "header_focus_width"=>1112,
+        "header_focus_height"=>625,
+        "avatar_shape"=>"circle",
+        "background_color"=>"#d4ffd9",
+        "body_font"=>"Helvetica Neue",
+        "header_bounds"=>"0,1268,625,156",
+        "header_image"=>
+         "https://secure.static.tumblr.com/4af4094e1069b56f314e71fc6b6d33a7/shv6mvr/cDxnzxfok/tumblr_static_1upf6f3q2cg08kk0os4oosk4g.png",
+        "header_image_focused"=>
+         "https://secure.static.tumblr.com/4af4094e1069b56f314e71fc6b6d33a7/shv6mvr/pFznzxfom/tumblr_static_tumblr_static_1upf6f3q2cg08kk0os4oosk4g_focused_v3.png",
+        "header_image_scaled"=>
+         "https://secure.static.tumblr.com/4af4094e1069b56f314e71fc6b6d33a7/shv6mvr/cDxnzxfok/tumblr_static_1upf6f3q2cg08kk0os4oosk4g_2048_v2.png",
+        "header_stretch"=>true,
+        "link_color"=>"#427ea3",
+        "show_avatar"=>true,
+        "show_description"=>true,
+        "show_header_image"=>true,
+        "show_title"=>true,
+        "title_color"=>"#444444",
+        "title_font"=>"Gibson",
+        "title_font_weight"=>"bold"},
+      "share_likes"=>false,
+      "share_following"=>false},
+    "post"=>{"id"=>"141262473804"},
+    "content_raw"=>
+     "<p>[image is the inside of a desktop computer]\n\nhere is my birthday build!\n\nfor my birthday this year, i put a bunch of computer components on my amazon wishlist in the hopes that people would help me get a new computer. and they did! \n\ni actually paid for a decent portion of this myself, since i bought the two most expensive components (the CPU and motherboard). but it allowed me to get a really nice computer within my budget. i was going to end up with something pretty underpowered (for my needs). \n\ni wanted to buy my components with the notion that i'd be holding onto this desktop for a while. i really want to get out of the planned obsolescence cycle that most electronic manufacturers have going. and now that i know how to put a computer together, i'll be able to upgrade pieces as a i need to. or just replace broken parts. i'm hoping this'll be with me for the next, idk, at least 10 years.\n\nsince i'm not a student, i don't need a laptop anymore. and tbh, there are very few, imo, that actually live up to their promise in terms of portability, power, and price (at the end of the day, 90% of the things are too fucking heavy to want to carry around a lot).\n\nlast... even if i do need to go portable, bc 80% (or more) of the apps i most frequently use are all text/commandline based, its actually just easier for me to spin up a temporary server in the cloud and connect to it with my phone or tablet. \n\nanyway. here are the specs:\n\n- intel core i5 3.1 ghz\n- asrock h97 motherboard\n- crucial 8gb ram\n- msi geforce gt 430 video card\n- corsair 200r atx mid tower case\n- fractal design integra m 450w psu\n- d-link dwa-566 wifi adapter.\n\ni think the part i'm proudest of is actually the wifi adapter. the whole wifi thing and linux gets a bit complicated but this one worked without any additional effort on my part. which is fucking *awesome*.</p>",
+    "content"=>
+     "<p>[image is the inside of a desktop computer]\n\nhere is my birthday build!\n\nfor my birthday this year, i put a bunch of computer components on my amazon wishlist in the hopes that people would help me get a new computer. and they did! \n\ni actually paid for a decent portion of this myself, since i bought the two most expensive components (the CPU and motherboard). but it allowed me to get a really nice computer within my budget. i was going to end up with something pretty underpowered (for my needs). \n\ni wanted to buy my components with the notion that i'd be holding onto this desktop for a while. i really want to get out of the planned obsolescence cycle that most electronic manufacturers have going. and now that i know how to put a computer together, i'll be able to upgrade pieces as a i need to. or just replace broken parts. i'm hoping this'll be with me for the next, idk, at least 10 years.\n\nsince i'm not a student, i don't need a laptop anymore. and tbh, there are very few, imo, that actually live up to their promise in terms of portability, power, and price (at the end of the day, 90% of the things are too fucking heavy to want to carry around a lot).\n\nlast... even if i do need to go portable, bc 80% (or more) of the apps i most frequently use are all text/commandline based, its actually just easier for me to spin up a temporary server in the cloud and connect to it with my phone or tablet. \n\nanyway. here are the specs:\n\n- intel core i5 3.1 ghz\n- asrock h97 motherboard\n- crucial 8gb ram\n- msi geforce gt 430 video card\n- corsair 200r atx mid tower case\n- fractal design integra m 450w psu\n- d-link dwa-566 wifi adapter.\n\ni think the part i'm proudest of is actually the wifi adapter. the whole wifi thing and linux gets a bit complicated but this one worked without any additional effort on my part. which is fucking *awesome*.</p>",
+    "is_current_item"=>true,
+    "is_root_item"=>true}],
+ "image_permalink"=>"http://mxb.ca/image/141262473804",
+ "photos"=>
+  [{"caption"=>"",
+    "alt_sizes"=>
+     [{"url"=>
+        "https://40.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_1280.jpg",
+       "width"=>1080,
+       "height"=>1920},
+      {"url"=>
+        "https://41.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_500.jpg",
+       "width"=>422,
+       "height"=>750},
+      {"url"=>
+        "https://40.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_400.jpg",
+       "width"=>338,
+       "height"=>600},
+      {"url"=>
+        "https://36.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_250.jpg",
+       "width"=>225,
+       "height"=>400},
+      {"url"=>
+        "https://41.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_100.jpg",
+       "width"=>100,
+       "height"=>178},
+      {"url"=>
+        "https://40.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_75sq.jpg",
+       "width"=>75,
+       "height"=>75}],
+    "original_size"=>
+     {"url"=>
+       "https://40.media.tumblr.com/effc8b46506a5d8725b0fb1f3f17cd33/tumblr_o48w3fqyvk1tyjgxro1_1280.jpg",
+      "width"=>1080,
+      "height"=>1920},
+    "exif"=>
+     {"Camera"=>"Samsung SM-G386W",
+      "ISO"=>100,
+      "Aperture"=>"f/2.6",
+      "Exposure"=>"1/15th",
+      "FocalLength"=>"3mm"}}],
+ "can_send_in_message"=>true,
+ "can_reply"=>false}
